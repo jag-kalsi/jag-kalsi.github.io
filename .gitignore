@@ -1,3 +1,5 @@
 
 *.lock
 _site/*
+img/.DS_Store
+.DS_Store
